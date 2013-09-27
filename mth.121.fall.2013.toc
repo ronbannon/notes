@@ -1,0 +1,224 @@
+\contentsline {section}{\numberline {1}Review}{8}{section.1}
+\contentsline {section}{\numberline {2}Course Web Page}{9}{section.2}
+\contentsline {section}{\numberline {3}This Guide}{10}{section.3}
+\contentsline {section}{\numberline {4}mth.121.01.00}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}Diagnostic Review}{11}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Examples}{11}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Assignment}{45}{subsection.4.3}
+\contentsline {section}{\numberline {5}mth.121.02.01}{46}{section.5}
+\contentsline {subsection}{\numberline {5.1}Tangents and Secants}{46}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Examples}{50}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Assignment}{51}{subsection.5.3}
+\contentsline {section}{\numberline {6}mth.121.02.02}{52}{section.6}
+\contentsline {subsection}{\numberline {6.1}Introductory Limits}{52}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Calculating Limits}{52}{subsubsection.6.1.1}
+\contentsline {subsection}{\numberline {6.2}Examples}{55}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Assignment}{63}{subsection.6.3}
+\contentsline {section}{\numberline {7}mth.121.02.03}{64}{section.7}
+\contentsline {subsection}{\numberline {7.1}Calculating Limits}{64}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7.1.1}Limit Laws}{64}{subsubsection.7.1.1}
+\contentsline {subsection}{\numberline {7.2}Examples}{65}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Assignment}{66}{subsection.7.3}
+\contentsline {section}{\numberline {8}mth.121.02.04}{67}{section.8}
+\contentsline {subsection}{\numberline {8.1}Continuity}{67}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Examples}{70}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Assignment}{71}{subsection.8.3}
+\contentsline {section}{\numberline {9}mth.121.02.05}{72}{section.9}
+\contentsline {subsection}{\numberline {9.1}Algebraic Manipulation and Reason!}{72}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Examples}{72}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Assignment}{78}{subsection.9.3}
+\contentsline {section}{\numberline {10}mth.121.02.06}{79}{section.10}
+\contentsline {subsection}{\numberline {10.1}Trigonometric Limits}{79}{subsection.10.1}
+\contentsline {subsubsection}{\numberline {10.1.1}Squeeze Theorem}{79}{subsubsection.10.1.1}
+\contentsline {subsubsection}{\numberline {10.1.2}An Important Case!}{80}{subsubsection.10.1.2}
+\contentsline {subsection}{\numberline {10.2}Examples}{82}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Assignment}{85}{subsection.10.3}
+\contentsline {section}{\numberline {11}mth.121.02.07}{86}{section.11}
+\contentsline {subsection}{\numberline {11.1}Calculating Limits at Infinity}{86}{subsection.11.1}
+\contentsline {subsubsection}{\numberline {11.1.1}Review}{86}{subsubsection.11.1.1}
+\contentsline {subsubsection}{\numberline {11.1.2}More Review}{87}{subsubsection.11.1.2}
+\contentsline {subsection}{\numberline {11.2}Examples}{91}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Assignment}{93}{subsection.11.3}
+\contentsline {section}{\numberline {12}mth.121.02.08}{94}{section.12}
+\contentsline {subsection}{\numberline {12.1}Intermediate Value Theorem}{94}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}Examples}{95}{subsection.12.2}
+\contentsline {subsection}{\numberline {12.3}Assignment}{96}{subsection.12.3}
+\contentsline {section}{\numberline {13}mth.121.03.01}{97}{section.13}
+\contentsline {subsection}{\numberline {13.1}The Derivative}{97}{subsection.13.1}
+\contentsline {subsubsection}{\numberline {13.1.1}Slope of Tangent Lines}{97}{subsubsection.13.1.1}
+\contentsline {subsubsection}{\numberline {13.1.2}Alternative Method}{97}{subsubsection.13.1.2}
+\contentsline {subsubsection}{\numberline {13.1.3}The Derivative at a Point}{98}{subsubsection.13.1.3}
+\contentsline {subsubsection}{\numberline {13.1.4}The Derivative as a Function}{99}{subsubsection.13.1.4}
+\contentsline {subsection}{\numberline {13.2}Examples}{99}{subsection.13.2}
+\contentsline {subsection}{\numberline {13.3}Assignment}{102}{subsection.13.3}
+\contentsline {section}{\numberline {14}mth.121.03.02}{103}{section.14}
+\contentsline {subsection}{\numberline {14.1}Finding Derivatives}{103}{subsection.14.1}
+\contentsline {subsubsection}{\numberline {14.1.1}Constants}{103}{subsubsection.14.1.1}
+\contentsline {subsubsection}{\numberline {14.1.2}Power Rule}{104}{subsubsection.14.1.2}
+\contentsline {subsubsection}{\numberline {14.1.3}Other Simple Rules}{104}{subsubsection.14.1.3}
+\contentsline {subsubsection}{\numberline {14.1.4}Exponential Functions}{105}{subsubsection.14.1.4}
+\contentsline {subsubsection}{\numberline {14.1.5}Derivatives of Exponential Functions}{105}{subsubsection.14.1.5}
+\contentsline {subsubsection}{\numberline {14.1.6}Generalized Power Rule}{106}{subsubsection.14.1.6}
+\contentsline {subsection}{\numberline {14.2}Examples}{106}{subsection.14.2}
+\contentsline {subsection}{\numberline {14.3}Assignment}{110}{subsection.14.3}
+\contentsline {section}{\numberline {15}mth.121.03.03}{111}{section.15}
+\contentsline {subsection}{\numberline {15.1}Product and Quotient Rules}{111}{subsection.15.1}
+\contentsline {subsubsection}{\numberline {15.1.1}Product Rule}{111}{subsubsection.15.1.1}
+\contentsline {subsubsection}{\numberline {15.1.2}Quotient Rule}{111}{subsubsection.15.1.2}
+\contentsline {subsection}{\numberline {15.2}Examples}{111}{subsection.15.2}
+\contentsline {subsection}{\numberline {15.3}Assignment}{113}{subsection.15.3}
+\contentsline {section}{\numberline {16}mth.121.03.04}{114}{section.16}
+\contentsline {subsection}{\numberline {16.1}Rates of Change}{114}{subsection.16.1}
+\contentsline {subsubsection}{\numberline {16.1.1}Velocity}{114}{subsubsection.16.1.1}
+\contentsline {subsubsection}{\numberline {16.1.2}Rates in General}{114}{subsubsection.16.1.2}
+\contentsline {subsection}{\numberline {16.2}Examples}{115}{subsection.16.2}
+\contentsline {subsection}{\numberline {16.3}Assignment}{116}{subsection.16.3}
+\contentsline {section}{\numberline {17}mth.121.03.05}{117}{section.17}
+\contentsline {subsection}{\numberline {17.1}Higher Order Derivatives}{117}{subsection.17.1}
+\contentsline {subsection}{\numberline {17.2}Examples}{118}{subsection.17.2}
+\contentsline {subsection}{\numberline {17.3}Assignment}{119}{subsection.17.3}
+\contentsline {section}{\numberline {18}mth.121.03.06}{120}{section.18}
+\contentsline {subsection}{\numberline {18.1}Trigonometric Derivatives}{120}{subsection.18.1}
+\contentsline {subsubsection}{\numberline {18.1.1}The Derivative of Sine}{120}{subsubsection.18.1.1}
+\contentsline {subsection}{\numberline {18.2}Examples}{121}{subsection.18.2}
+\contentsline {subsection}{\numberline {18.3}Assignment}{124}{subsection.18.3}
+\contentsline {section}{\numberline {19}mth.121.03.07}{125}{section.19}
+\contentsline {subsection}{\numberline {19.1}The Chain Rule}{125}{subsection.19.1}
+\contentsline {subsubsection}{\numberline {19.1.1}Local Linearization}{125}{subsubsection.19.1.1}
+\contentsline {subsection}{\numberline {19.2}Examples}{128}{subsection.19.2}
+\contentsline {subsection}{\numberline {19.3}Assignment}{130}{subsection.19.3}
+\contentsline {section}{\numberline {20}mth.121.03.08}{131}{section.20}
+\contentsline {subsection}{\numberline {20.1}Derivatives of Inverse Functions}{131}{subsection.20.1}
+\contentsline {subsubsection}{\numberline {20.1.1}Trigonometric Functions}{132}{subsubsection.20.1.1}
+\contentsline {subsection}{\numberline {20.2}Finding the Derivatives of Inverse Trigonometric Functions}{134}{subsection.20.2}
+\contentsline {subsection}{\numberline {20.3}Examples}{137}{subsection.20.3}
+\contentsline {subsection}{\numberline {20.4}Assignment}{140}{subsection.20.4}
+\contentsline {section}{\numberline {21}mth.121.03.09}{141}{section.21}
+\contentsline {subsection}{\numberline {21.1}Logarithmic Functions}{141}{subsection.21.1}
+\contentsline {subsubsection}{\numberline {21.1.1}Derivatives of Natural Logarithmic Functions}{141}{subsubsection.21.1.1}
+\contentsline {subsubsection}{\numberline {21.1.2}Other Bases?}{142}{subsubsection.21.1.2}
+\contentsline {subsection}{\numberline {21.2}Examples}{143}{subsection.21.2}
+\contentsline {subsection}{\numberline {21.3}Assignment}{146}{subsection.21.3}
+\contentsline {subsection}{\numberline {21.4}Hyperbolic Functions [Optional Material]}{147}{subsection.21.4}
+\contentsline {subsubsection}{\numberline {21.4.1}Some Questions? [Optional Material]}{147}{subsubsection.21.4.1}
+\contentsline {subsubsection}{\numberline {21.4.2}Inverses [Optional Material]}{150}{subsubsection.21.4.2}
+\contentsline {subsubsection}{\numberline {21.4.3}What You May Need to Know? [Optional Material]}{151}{subsubsection.21.4.3}
+\contentsline {subsubsection}{\numberline {21.4.4}Examples [Optional Material]}{152}{subsubsection.21.4.4}
+\contentsline {section}{\numberline {22}mth.121.03.10}{154}{section.22}
+\contentsline {subsection}{\numberline {22.1}Implicit Differention}{154}{subsection.22.1}
+\contentsline {subsubsection}{\numberline {22.1.1}A Simple Visual Example}{154}{subsubsection.22.1.1}
+\contentsline {subsection}{\numberline {22.2}Finding Derivatives Implicitly}{155}{subsection.22.2}
+\contentsline {subsection}{\numberline {22.3}Examples}{157}{subsection.22.3}
+\contentsline {subsection}{\numberline {22.4}Assignment}{160}{subsection.22.4}
+\contentsline {section}{\numberline {23}mth.121.03.11}{161}{section.23}
+\contentsline {subsection}{\numberline {23.1}Word Problems}{161}{subsection.23.1}
+\contentsline {subsubsection}{\numberline {23.1.1}Vexing Non-Calculus Examples [Optional Material]}{161}{subsubsection.23.1.1}
+\contentsline {subsubsection}{\numberline {23.1.2}Guidelines For Solving Related-Rate Word Problems}{162}{subsubsection.23.1.2}
+\contentsline {subsection}{\numberline {23.2}Examples}{163}{subsection.23.2}
+\contentsline {subsection}{\numberline {23.3}Assignment}{166}{subsection.23.3}
+\contentsline {section}{\numberline {24}mth.121.04.01}{167}{section.24}
+\contentsline {subsection}{\numberline {24.1}Linear Approximations and Differentials}{167}{subsection.24.1}
+\contentsline {subsubsection}{\numberline {24.1.1}Visual Approach}{167}{subsubsection.24.1.1}
+\contentsline {subsubsection}{\numberline {24.1.2}Linearization}{168}{subsubsection.24.1.2}
+\contentsline {subsubsection}{\numberline {24.1.3}Differentials}{168}{subsubsection.24.1.3}
+\contentsline {subsection}{\numberline {24.2}Examples}{170}{subsection.24.2}
+\contentsline {subsection}{\numberline {24.3}Assignment}{171}{subsection.24.3}
+\contentsline {section}{\numberline {25}mth.121.04.02}{172}{section.25}
+\contentsline {subsection}{\numberline {25.1}Important Features of $f$}{172}{subsection.25.1}
+\contentsline {subsection}{\numberline {25.2}Definitions and Theorems}{175}{subsection.25.2}
+\contentsline {subsection}{\numberline {25.3}Examples}{176}{subsection.25.3}
+\contentsline {subsection}{\numberline {25.4}Assignment}{179}{subsection.25.4}
+\contentsline {section}{\numberline {26}mth.121.04.03}{180}{section.26}
+\contentsline {subsection}{\numberline {26.1}Let's Continue \ldots }{180}{subsection.26.1}
+\contentsline {subsection}{\numberline {26.2}Let's Summarize}{182}{subsection.26.2}
+\contentsline {subsection}{\numberline {26.3}Examples}{183}{subsection.26.3}
+\contentsline {subsection}{\numberline {26.4}Assignment}{185}{subsection.26.4}
+\contentsline {section}{\numberline {27}mth.121.04.04}{186}{section.27}
+\contentsline {subsection}{\numberline {27.1}Let's Continue \ldots }{186}{subsection.27.1}
+\contentsline {subsection}{\numberline {27.2}Examples}{188}{subsection.27.2}
+\contentsline {subsection}{\numberline {27.3}Assignment}{193}{subsection.27.3}
+\contentsline {section}{\numberline {28}mth.121.04.05}{194}{section.28}
+\contentsline {subsection}{\numberline {28.1}l'H\^{o}pital's Rule}{194}{subsection.28.1}
+\contentsline {subsection}{\numberline {28.2}An Example Limit}{194}{subsection.28.2}
+\contentsline {subsection}{\numberline {28.3}Examples}{197}{subsection.28.3}
+\contentsline {subsection}{\numberline {28.4}Assignment}{200}{subsection.28.4}
+\contentsline {section}{\numberline {29}mth.121.04.06}{201}{section.29}
+\contentsline {subsection}{\numberline {29.1}Curve Sketching}{201}{subsection.29.1}
+\contentsline {subsection}{\numberline {29.2}Examples}{201}{subsection.29.2}
+\contentsline {subsection}{\numberline {29.3}Assignment}{208}{subsection.29.3}
+\contentsline {section}{\numberline {30}mth.121.04.07}{209}{section.30}
+\contentsline {subsection}{\numberline {30.1}Optimization and Modeling}{209}{subsection.30.1}
+\contentsline {subsection}{\numberline {30.2}Examples}{211}{subsection.30.2}
+\contentsline {subsection}{\numberline {30.3}Assignment}{214}{subsection.30.3}
+\contentsline {section}{\numberline {31}mth.121.04.08}{215}{section.31}
+\contentsline {subsection}{\numberline {31.1}Newton's Method}{215}{subsection.31.1}
+\contentsline {subsection}{\numberline {31.2}A Very Simple Example}{217}{subsection.31.2}
+\contentsline {subsection}{\numberline {31.3}Visual Demonstartion}{218}{subsection.31.3}
+\contentsline {subsection}{\numberline {31.4}Examples}{219}{subsection.31.4}
+\contentsline {subsection}{\numberline {31.5}Assignment}{219}{subsection.31.5}
+\contentsline {section}{\numberline {32}mth.121.04.09}{220}{section.32}
+\contentsline {subsection}{\numberline {32.1}Antiderivatives}{220}{subsection.32.1}
+\contentsline {subsection}{\numberline {32.2}Checking the Antiderivatives}{221}{subsection.32.2}
+\contentsline {subsection}{\numberline {32.3}Examples}{222}{subsection.32.3}
+\contentsline {subsection}{\numberline {32.4}Assignment}{226}{subsection.32.4}
+\contentsline {section}{\numberline {33}mth.121.05.01}{227}{section.33}
+\contentsline {subsection}{\numberline {33.1}Introduction to Areas}{227}{subsection.33.1}
+\contentsline {subsection}{\numberline {33.2}Area}{228}{subsection.33.2}
+\contentsline {subsection}{\numberline {33.3}The Definite Integral}{229}{subsection.33.3}
+\contentsline {subsection}{\numberline {33.4}Examples}{229}{subsection.33.4}
+\contentsline {subsection}{\numberline {33.5}Assignment}{237}{subsection.33.5}
+\contentsline {section}{\numberline {34}mth.121.05.02}{238}{section.34}
+\contentsline {subsection}{\numberline {34.1}Visual Approach to Integration}{238}{subsection.34.1}
+\contentsline {subsubsection}{\numberline {34.1.1}Computing Signed Areas}{238}{subsubsection.34.1.1}
+\contentsline {subsubsection}{\numberline {34.1.2}Riemann Sums}{238}{subsubsection.34.1.2}
+\contentsline {subsection}{\numberline {34.2}Examples}{240}{subsection.34.2}
+\contentsline {subsection}{\numberline {34.3}Assignment}{241}{subsection.34.3}
+\contentsline {section}{\numberline {35}mth.121.05.03}{242}{section.35}
+\contentsline {subsection}{\numberline {35.1}The Fundamental Theorems of Calculus (FTC)}{242}{subsection.35.1}
+\contentsline {subsubsection}{\numberline {35.1.1}FTC Part I}{242}{subsubsection.35.1.1}
+\contentsline {subsubsection}{\numberline {35.1.2}FTC Part II}{242}{subsubsection.35.1.2}
+\contentsline {subsubsection}{\numberline {35.1.3}Making Sense Out of the FTC, Part I}{242}{subsubsection.35.1.3}
+\contentsline {subsection}{\numberline {35.2}Examples}{243}{subsection.35.2}
+\contentsline {subsection}{\numberline {35.3}Assignment}{247}{subsection.35.3}
+\contentsline {section}{\numberline {36}mth.121.05.04}{248}{section.36}
+\contentsline {subsection}{\numberline {36.1}FTC II}{248}{subsection.36.1}
+\contentsline {subsection}{\numberline {36.2}Examples}{248}{subsection.36.2}
+\contentsline {subsection}{\numberline {36.3}Assignment}{249}{subsection.36.3}
+\contentsline {section}{\numberline {37}mth.121.05.05}{250}{section.37}
+\contentsline {subsection}{\numberline {37.1}Net Change as the Integral of Rate}{250}{subsection.37.1}
+\contentsline {subsection}{\numberline {37.2}Examples}{250}{subsection.37.2}
+\contentsline {subsection}{\numberline {37.3}Assignment}{252}{subsection.37.3}
+\contentsline {section}{\numberline {38}mth.121.05.06}{253}{section.38}
+\contentsline {subsection}{\numberline {38.1}Integration}{253}{subsection.38.1}
+\contentsline {subsubsection}{\numberline {38.1.1}Recognition}{253}{subsubsection.38.1.1}
+\contentsline {subsubsection}{\numberline {38.1.2}$u$-Substitution in Action!}{254}{subsubsection.38.1.2}
+\contentsline {subsection}{\numberline {38.2}Examples}{255}{subsection.38.2}
+\contentsline {subsubsection}{\numberline {38.2.1}Mathematica Code}{262}{subsubsection.38.2.1}
+\contentsline {subsection}{\numberline {38.3}Assignment}{263}{subsection.38.3}
+\contentsline {section}{\numberline {39}mth.121.06.01}{264}{section.39}
+\contentsline {subsection}{\numberline {39.1}Applications of Integration I}{264}{subsection.39.1}
+\contentsline {subsubsection}{\numberline {39.1.1}Area Between Curves}{264}{subsubsection.39.1.1}
+\contentsline {subsection}{\numberline {39.2}Examples}{265}{subsection.39.2}
+\contentsline {subsection}{\numberline {39.3}Assignment}{267}{subsection.39.3}
+\contentsline {section}{\numberline {40}mth.121.06.02}{268}{section.40}
+\contentsline {subsection}{\numberline {40.1}Applications of Integration II}{268}{subsection.40.1}
+\contentsline {subsubsection}{\numberline {40.1.1}Volumes Part I}{268}{subsubsection.40.1.1}
+\contentsline {subsubsection}{\numberline {40.1.2}Average Value of a Data Set}{268}{subsubsection.40.1.2}
+\contentsline {subsubsection}{\numberline {40.1.3}Average Value of a Function}{269}{subsubsection.40.1.3}
+\contentsline {subsection}{\numberline {40.2}Examples}{271}{subsection.40.2}
+\contentsline {subsection}{\numberline {40.3}Assignment}{272}{subsection.40.3}
+\contentsline {section}{\numberline {41}mth.121.06.03}{273}{section.41}
+\contentsline {subsection}{\numberline {41.1}Volumes of Revolutions}{273}{subsection.41.1}
+\contentsline {subsubsection}{\numberline {41.1.1}Method of Disks/Washers}{273}{subsubsection.41.1.1}
+\contentsline {subsection}{\numberline {41.2}Examples}{273}{subsection.41.2}
+\contentsline {subsection}{\numberline {41.3}Assignment}{275}{subsection.41.3}
+\contentsline {section}{\numberline {42}mth.121.06.04}{276}{section.42}
+\contentsline {subsection}{\numberline {42.1}Volumes of Revolutions}{276}{subsection.42.1}
+\contentsline {subsubsection}{\numberline {42.1.1}The Method of Cylindrical Shells}{276}{subsubsection.42.1.1}
+\contentsline {subsection}{\numberline {42.2}Examples}{276}{subsection.42.2}
+\contentsline {subsection}{\numberline {42.3}Assignment}{277}{subsection.42.3}
+\contentsline {section}{\numberline {43}How to Present [Optional Material]}{278}{section.43}
+\contentsline {subsection}{\numberline {43.1}The Art of \LaTeXe }{278}{subsection.43.1}
+\contentsline {subsection}{\numberline {43.2}An Example}{278}{subsection.43.2}
+\contentsline {subsection}{\numberline {43.3}Another Example}{280}{subsection.43.3}
+\contentsline {subsection}{\numberline {43.4}Got \LaTeX ?}{281}{subsection.43.4}
